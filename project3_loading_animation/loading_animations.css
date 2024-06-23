@@ -15,7 +15,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-.mainCont {
+.mainConts {
   display: flex;
   flex-flow: row nowrap;
   justify-content: center;
