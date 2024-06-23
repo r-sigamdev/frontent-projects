@@ -1,29 +1,43 @@
-# frontent-projects <hr>
+# Frontent-projects <hr>
 
-project 1 url: https://r-sigamdev.github.io/frontent-projects/project1_mode_toggle_btn/
+Name: Rahul
+Education: B.Tech 1st year
+Role: Frontend Developer
+Looking for an internship....
 
-<hr>
-project 2 url:https://r-sigamdev.github.io/frontent-projects/project2_to_do_list/
-<hr>
-project 3 url:https://r-sigamdev.github.io/frontent-projects/project3_loading_animation/
-<hr>
+<details>
+    <summary>For More Information:</summary>
+    <pre>
+        I completed my pre-university course in IIIT Nuzvid.
+        I am good at HTML, CSS & JAVASCRIPT.
+        I love learning something new everyday.
+    </pre>
+</details>
 
-project 4 url:https://r-sigamdev.github.io/frontent-projects/project4_custom_scrollbar/
-
-<hr>
-
-project 5 url:https://r-sigamdev.github.io/frontent-projects/project5_image_hover_effect/
-
-<hr>
-
-project 6 button 1 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button1/
+Project 1 url: https://r-sigamdev.github.io/frontent-Ps/project1_mode_toggle_btn/
 
 <hr>
+Project 2 url: https://r-sigamdev.github.io/frontent-projects/project2_to_do_list/
+<hr>
+Project 3 url: https://r-sigamdev.github.io/frontent-projects/project3_loading_animation/
+<hr>
 
-project 6 button 2 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button2/
+Project 4 url: https://r-sigamdev.github.io/frontent-projects/project4_custom_scrollbar/
 
 <hr>
-project 6 button 2 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button3/
+
+Project 5 url: https://r-sigamdev.github.io/frontent-projects/project5_image_hover_effect/
+
 <hr>
-project 7 url:https://r-sigamdev.github.io/frontent-projects/project7_cool_Nav_Bars/
+
+Project 6 button 1 url: https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button1/
+
+<hr>
+
+Project 6 button 2 url: https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button2/
+
+<hr>
+Project 6 button 2 url: https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button3/
+<hr>
+Project 7 url: https://r-sigamdev.github.io/frontent-projects/project7_cool_Nav_Bars/
 <hr>
