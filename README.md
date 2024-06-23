@@ -8,7 +8,6 @@ Looking for an internship....
     
 </pre>
 <details>
-    <p>For More Information:</p>
     <summary>For More Information</summary>
     <pre>
     I completed my pre-university course in IIIT Nuzvid.
