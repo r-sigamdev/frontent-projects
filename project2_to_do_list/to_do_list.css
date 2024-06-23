@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: var(--FONT-COLOR);
+}
+
+:root {
+  --LIGHT-MODE-BG-COLOR: rgb(241, 222, 223);
+  --LIGHT-MODE-BG-COLOR: rgb(187, 172, 193);
+  --LIGHT-FONT-COLOR: black;
+
+  --DARK-MODE-BG-COLOR1: rgb(84, 86, 67);
+  --DARK-MODE-BG-COLOR2: rgb(144, 149, 128);
+  --DARK-FONT-COLOR: ;
+
+  --FONT-SIZE: 1rem;
+  --FONT-SIZE1: 1.5rem;
+  --BIG-FONT-SIZE: 4rem;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--DARK-MODE-BG-COLOR1);
+}
+h1 {
+  margin: 1rem;
+}
+h1 hr {
+  height: 2px;
+  background-color: black;
+  border: none;
+}
+.main {
+  width: 22rem;
+  height: 30rem;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 1rem;
+  background-color: var(--DARK-MODE-BG-COLOR2);
+}
+.headerbg {
+  width: 100%;
+  height: 5rem;
+  background-color: var(--DARK-MODE-BG-COLOR2);
+  border-radius: 1rem;
+}
+.header {
+  width: 90%;
+  height: 3rem;
+  border: none;
+
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--DARK-MODE-BG-COLOR1);
+  margin: 1rem;
+  border-radius: 2rem;
+}
+.heading {
+  width: calc(100% - 3rem);
+  height: 3rem;
+  opacity: 0.7;
+  text-decoration: strik;
+
+  padding: 1rem;
+  background-color: transparent;
+  color: var(--FONT-COLOR);
+  border: none;
+
+  border-radius: 2rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.heading::placeholder {
+  color: var(--FONT-COLOR);
+  font-size: 1.2rem;
+}
+
+.plus-icon {
+  height: 3rem;
+  width: 3rem;
+  border: 1px solid green;
+  text-align: center;
+  border: none;
+  border-radius: 50%;
+  background-color: transparent;
+  font-size: 1.8rem;
+}
+.mainCont {
+  width: 100%;
+  height: 25rem;
+  flex-grow: 1;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: left;
+  align-items: center;
+  gap: 0.2rem;
+  top: 5rem;
+  overflow: scroll;
+}
+.mainCont::-webkit-scrollbar {
+  width: 0px;
+}

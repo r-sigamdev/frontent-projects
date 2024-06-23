@@ -1,0 +1,46 @@
+body {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #895488;
+}
+.button {
+  width: 10rem;
+  height: 3rem;
+  border-radius: 1rem;
+  background-color: #898320;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  /* box-shadow: 1px 1px 5px black; */
+
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+
+  transition: all 0.3s;
+}
+.button:hover {
+  box-shadow: 0 0 10px black;
+}
+
+div {
+  text-align: center;
+  height: 2px;
+  background-color: black;
+}
+button:hover div {
+  animation: under-bar 0.5s forwards;
+}
+@keyframes under-bar {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 4.5rem;
+  }
+}

@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #495878;
+}
+h1 {
+  margin-bottom: 3rem;
+  font-size: 3rem;
+}
+h1 hr {
+  height: 3px;
+  background-color: black;
+  border: none;
+}
+.container {
+  width: 80%;
+  height: 30rem;
+  background-color: #854020;
+  position: relative;
+  border-radius: 2rem;
+}
+.clip {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 2rem;
+
+  position: absolute;
+  transition: all 1s;
+}
+.clip1 {
+  background: url(daniel-frank-UoUqvOOwDh8-unsplash.jpg);
+  clip-path: polygon(0% 0%, 25% 0%, 40% 100%, 0% 100%);
+  background-size: cover;
+  background-position: center;
+}
+.clip2 {
+  background: url(frederico-almeida-80-IGI1mr24-unsplash.jpg);
+  clip-path: polygon(25% 0%, 75% 0%, 60% 100%, 40% 100%);
+  background-size: cover;
+  background-position: center;
+}
+.clip3 {
+  background: url(patrick-tomasso-5hvn-2WW6rY-unsplash.jpg);
+  clip-path: polygon(75% 0%, 100% 0%, 100% 100%, 60% 100%);
+  background-size: cover;
+  background-position: center;
+}
+.container:hover .clip {
+  clip-path: polygon(100% 0%, 100% 0%, 100% 100%, 100% 100%);
+}
+.container .clip:hover {
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+}

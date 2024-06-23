@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: left;
+  align-items: center;
+  background-color: #458485;
+  color: white;
+}
+div {
+  margin: 2rem;
+}
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 0.5rem;
+  scroll-behavior: auto;
+}
+::-webkit-scrollbar-thumb {
+  background-color: whitesmoke;
+  border-radius: 1rem;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
