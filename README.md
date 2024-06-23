@@ -16,10 +16,14 @@ project 5 url:https://r-sigamdev.github.io/frontent-projects/project5_image_hove
 
 <hr>
 
-project 6 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button2/
+project 6 button 1 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button1/
 
 <hr>
 
-project 7 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button3/
+project 6 button 2 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button2/
 
+<hr>
+project 6 button 2 url:https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button3/
+<hr>
+project 7 url:https://r-sigamdev.github.io/frontent-projects/project7_cool_Nav_Bars/
 <hr>
