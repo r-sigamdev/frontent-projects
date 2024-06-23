@@ -1,16 +1,19 @@
 # Frontent-projects <hr>
 
+<pre>
 Name: Rahul
 Education: B.Tech 1st year
 Role: Frontend Developer
 Looking for an internship....
-
+    
+</pre>
 <details>
+    <p>For More Information:</p>
     <summary>For More Information:</summary>
     <pre>
-        I completed my pre-university course in IIIT Nuzvid.
-        I am good at HTML, CSS & JAVASCRIPT.
-        I love learning something new everyday.
+    I completed my pre-university course in IIIT Nuzvid.
+    I am good at HTML, CSS & JAVASCRIPT.
+    I love learning something new everyday.
     </pre>
 </details>
 
