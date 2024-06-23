@@ -39,7 +39,7 @@ Project 6 button 1 url: https://r-sigamdev.github.io/frontent-projects/project6_
 Project 6 button 2 url: https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button2/
 
 <hr>
-Project 6 button 2 url: https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button3/
+Project 6 button 3 url: https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button3/
 <hr>
 Project 7 url: https://r-sigamdev.github.io/frontent-projects/project7_cool_Nav_Bars/
 <hr>
