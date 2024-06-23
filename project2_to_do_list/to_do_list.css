@@ -26,8 +26,10 @@ body {
   align-items: center;
   background-color: var(--DARK-MODE-BG-COLOR1);
 }
-h1 {
-  margin: 1rem;
+.heading-h1 {
+  margin-bottom: 3rem;
+  text-align: center;
+  font-size: 2.5rem;
 }
 h1 hr {
   height: 2px;
