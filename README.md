@@ -16,7 +16,7 @@ Looking for an internship....
     </pre>
 </details>
 
-Project 1 url: https://r-sigamdev.github.io/frontent-Ps/project1_mode_toggle_btn/
+Project 1 url: https://r-sigamdev.github.io/frontent-projects/project1_mode_toggle_btn/
 
 <hr>
 Project 2 url: https://r-sigamdev.github.io/frontent-projects/project2_to_do_list/
