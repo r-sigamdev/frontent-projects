@@ -47,5 +47,5 @@ Project 7 nav 2 url: https://r-sigamdev.github.io/frontent-projects/project7_coo
 <hr>
 Project 8 url: https://r-sigamdev.github.io/frontent-projects/project8_image_hover_effect_2/effect1/
 <hr>
-Project 9 url: https://r-sigamdev.github.io/frontent-projects/project9_card_hover_effect/card1/
+Project 9 url: https://r-sigamdev.github.io/frontent-projects/project9_card_hover_effect/card_1/
 <hr>
