@@ -41,5 +41,11 @@ Project 6 button 2 url: https://r-sigamdev.github.io/frontent-projects/project6_
 <hr>
 Project 6 button 3 url: https://r-sigamdev.github.io/frontent-projects/project6_creative_buttons/button3/
 <hr>
-Project 7 url: https://r-sigamdev.github.io/frontent-projects/project7_cool_Nav_Bars/
+Project 7 nav 1 url: https://r-sigamdev.github.io/frontent-projects/project7_cool_Nav_Bars/cool_nav1/
+<hr>
+Project 7 nav 2 url: https://r-sigamdev.github.io/frontent-projects/project7_cool_Nav_Bars/cool_nav2/
+<hr>
+Project 8 url: https://r-sigamdev.github.io/frontent-projects/project8_image_hover_effect_2/effect1/
+<hr>
+Project 9 url: https://r-sigamdev.github.io/frontent-projects/project9_card_hover_effect/card1/
 <hr>
