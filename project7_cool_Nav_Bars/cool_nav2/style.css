@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(88, 88, 88, 0.5);
+}
+.container {
+  width: 55rem;
+  height: 3rem;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 2rem;
+  line-height: 3rem;
+}
+a {
+  width: 8rem;
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: center;
+  background-color: rgba(18, 18, 18, 8);
+  position: relative;
+  box-shadow: 3px 3px 5px palegoldenrod;
+}
+a::before,
+a::after {
+  content: "";
+  position: absolute;
+
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: none;
+}
+
+a li {
+  width: 100%;
+  height: 100%;
+}
+a:hover::before {
+  animation: effect1 0.4s forwards;
+}
+
+@keyframes effect1 {
+  from {
+    top: -5px;
+    right: -5px;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+  }
+  to {
+    top: -10px;
+    right: -10px;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+  }
+}
+a:hover::after {
+  animation: effect2 0.4s forwards;
+}
+
+@keyframes effect2 {
+  from {
+    bottom: -5px;
+    left: -5px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+  }
+  to {
+    bottom: -10px;
+    left: -10px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+  }
+}
