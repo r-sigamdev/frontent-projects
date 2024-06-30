@@ -27,7 +27,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  transition: all 0.5s ease-in-out;
+  transition: all 0.1s ease-in-out;
 }
 .image1 {
   background-image: url(erik-witsoe-pvoQJym18Jg-unsplash.jpg);
