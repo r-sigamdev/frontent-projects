@@ -52,3 +52,6 @@ Project 9 url: https://r-sigamdev.github.io/frontent-projects/project9_card_hove
 Project 11 url: https://r-sigamdev.github.io/frontent-projects/project11_image_galley_hovering_effect/
 
 <hr>
+Project 11 url: https://r-sigamdev.github.io/frontent-projects/project12_image_galley_hovering_effect_part2/
+
+<hr
