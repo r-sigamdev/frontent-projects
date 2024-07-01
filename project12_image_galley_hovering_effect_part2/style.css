@@ -23,7 +23,7 @@ body {
   background-color: none /* rgb(255, 75, 62) */;
   margin: 2rem;
   display: flex;
-  /* flex-flow: row wrap; */
+  flex-flow: row wrap;
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
