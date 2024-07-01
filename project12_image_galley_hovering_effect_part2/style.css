@@ -8,10 +8,9 @@ body {
   min-height: 100vh;
   background-color: rgb(100, 88, 83);
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
 }
 .heading {
   font-size: 2.5rem;
@@ -24,11 +23,13 @@ body {
   background-color: none /* rgb(255, 75, 62) */;
   margin: 2rem;
   display: flex;
+  /* flex-flow: row wrap; */
   justify-content: space-between;
   align-items: center;
+  gap: 1rem;
 }
 .image {
-  width: 12rem;
+  /* width: 12rem; */
   height: 100%;
   border: 3px solid rgb(232, 170, 20);
   background-color: rgb(39, 251, 107);
@@ -39,6 +40,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  flex-grow: 1;
 }
 .image1 {
   background-image: url(../project11_image_galley_hovering_effect/anastase-maragos-4dlhin0ghOk-unsplash.jpg);
@@ -57,5 +59,6 @@ body {
 }
 
 .image:hover {
-  width: 40%;
+  /* width: 40%; */
+  flex-grow: 4;
 }
